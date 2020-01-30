@@ -19,11 +19,10 @@ This problem has been picked from Kaggle.
 5. The ‘Time’ and ‘Amount’ features are not transformed data.
 6. There is no missing value in the dataset.
 
-###Autoencoders
+### Autoencoders
 
    Autoencoding is a data compression algorithm where the compression and decompression functions are
           1. Data Specific
           2. Lossy
           3. Learned automatically from the examples.
-     
-      An autoencoder neural network is an unsupervised learning algorithm that applies backpropogation, setting the target values to be equal to the inputs.
+     An autoencoder neural network is an unsupervised learning algorithm that applies backpropogation, setting the target values to be equal to the inputs.
